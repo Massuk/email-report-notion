@@ -1,0 +1,6 @@
+# Folders
+.idea
+reports
+
+# .env file
+.env
