@@ -60,7 +60,7 @@ El objetivo principal de este proyecto es automatizar la generación y envío de
   # Debes generarlo en Notion
   NOTION_TOKEN=your_notion_token
 ```   
-## Usage/Examples
+## Uso
 
 #### 1. Ejecutar el script principal:
 Ejecuta el Jupyter Notebook ```notion-weekly-report.ipynb``` y sigue las instrucciones paso a paso. El script realizará las siguientes tareas:
@@ -93,7 +93,7 @@ Ejecuta el Jupyter Notebook ```notion-weekly-report.ipynb``` y sigue las instruc
 Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request para mejorar el proyecto.
 
 
-## License
+## Licencia
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
