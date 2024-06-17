@@ -1,0 +1,5 @@
+requests==2.31.0
+matplotlib==3.9.0
+python-dotenv==1.0.1
+structlog==24.2.0
+notion-client==2.2.1
